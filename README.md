@@ -1,4 +1,3 @@
-![Galaxy Banner](banner.jpg)
 
 <h1 align="center">Rishita Sharma</h1>
 <p align="center">
