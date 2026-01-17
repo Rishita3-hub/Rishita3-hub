@@ -1,4 +1,4 @@
-![Galaxy Banner]([https://YOUR_GALAXY_IMAGE_LINK](https://www.freepik.com/free-photo/beautiful-shot-starry-night-sky_9990816.htm#fromView=keyword&page=1&position=0&uuid=7dee048b-c6a9-496f-ae7d-755bbbabcf27&query=Black+galaxy))
+![Galaxy Banner](banner.jpg)
 
 <h1 align="center">Rishita Sharma</h1>
 <p align="center">
