@@ -60,11 +60,7 @@ Comprehensive explanations, visuals, and results are maintained on my portfolio.
 
 ---
 
-## GitHub Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark"/>
-</p>
+
 
 ---
 
